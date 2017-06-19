@@ -1,0 +1,244 @@
+body{
+	margin-left: 5em;
+	padding-top: none;
+   
+}
+
+#star{
+	font-size: 17px;
+	color: white;
+	padding-top: none;
+	margin-bottom: none;
+	margin-left: 5em;
+
+}
+
+.container-top{
+   background-color: black;
+   background-repeat: no-repeat;
+   margin-right: 3em;
+ margin-bottom: 0em;
+}
+
+
+.gets span{
+	color: rgb(163, 168, 168);
+	font-size: 15px;
+	float: left;
+	margin-top: 1em;
+	padding-top: 1em;
+	margin-left: 2px;
+	margin-right: 4em;
+	margin:1em;
+}
+#home{
+	color: white;
+}
+
+#button{
+	background-color: rgb(10, 153, 51);
+	float: right;
+	margin: 1px;
+	margin-top: 2em;
+	border-radius: 15px;
+	margin-right:14em;
+	color: white;
+}
+
+
+.gets1 h2{
+ margin-top: 4em;
+ margin-left: 2em;
+ font-size: 3em;
+ color: white;
+}
+
+.gets1 img{
+	margin-top: 7em;
+	margin-right: 7px;
+	margin-bottom: 5em;
+
+}
+.gets1 p{
+	font-size: 15px;
+	margin-left: 5em;
+}
+#bout{
+	margin-left: 6em;
+	border-radius: 15px;
+	background-color: black;
+	margin-top: 2em;
+	padding-left: 2em;
+	margin-bottom: none;
+	padding-right: 2em;
+}
+#cote{
+	margin-left: 17em;
+	margin-top: none;
+    
+}
+
+hr{
+	width: 46px;
+	border: 1px solid rgb(170, 167, 167) ;
+	float: right;
+	margin-right:28em;
+	padding-right: 1px;
+	margin-bottom: 3em;
+	padding-left: 1px;
+
+}
+
+ #feat{
+	text-align: justify;
+	float: right;
+	padding-top: 2em;
+	margin-bottom:none;
+	font-size: 14px;
+	margin-top: 3em;
+	margin-right: 24em;
+}
+
+#bouton{
+	border-radius: 3px;
+	background-color: white;
+	border-color: rgb(41, 178, 232);
+	padding-bottom: 5px;
+	margin-bottom: 3em;
+
+}
+.gets2{
+	margin-left: 6em;
+}
+
+.vertical-spacer{
+    border-width: 4px;
+   
+}
+
+.card-center{
+	float: right;
+   margin-right: 25em;
+   margin-bottom: 17em;
+}
+
+h3{
+	text-align: justify;
+	margin-top: 3em;
+
+}
+
+.gets3 h6{
+margin-left: 4.5em;
+font-size: 25px;
+}
+
+.gets3 p{
+	margin-left: 8em;
+}
+
+.gets3 button{
+	margin-left: 8em;
+	border-color: black;
+	background-color: white;
+}
+
+.gets3 hr{
+	width: 950px;
+	margin-right: 0em;
+	float: right;
+}
+
+.gets3{
+border-right: 1px inset;
+	max-height: 725px;
+	box-shadow: 1px 0px 1px grid;
+	margin-right: 10em;
+	padding-left: 220px;
+	border-color: rgb(232, 234, 234);
+}
+.gets4 h3{
+	margin-left: 22em;
+	font-weight: bold;
+}
+.gets4 p{
+	margin-left: 27em;
+}
+
+.gets4 hr{
+	margin-right: 47em;
+	margin-bottom: 1em;
+}
+
+.gets4 h5{
+	margin-left: 37em;
+	font-weight: bold;
+	margin-top: 2em;
+}
+.form1-control{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 2em;
+	padding-right: 2em;
+	margin-left: 27em;
+	border-radius: 4px;
+}
+
+#mce-EMAIL{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	float: right;
+	padding-right: 2em;
+	margin-right: 3em;
+	border-radius: 4px;
+}
+.form3-control{
+	float: right;
+	margin-right: 34em;
+	padding-top: 0px;
+	padding-bottom: 30px;
+	padding-right: 18em;
+	border-radius: 4px;
+}
+
+#bouttons{
+	background-color: rgb(92, 130, 214);
+	margin-left: 38em;
+	margin-bottom: 8em;
+} 
+
+.footer h5{
+margin-bottom: 1em;
+color: white;
+} 
+.container-footer{
+	margin-right: 7em;
+	background-color: black;
+	padding-bottom: 1em;
+	margin-bottom: 0em;
+}
+
+.list-inline{
+	float: right;
+	margin-top: 1em;
+	margin-right: 3em;
+}
+.gets5{
+padding-bottom: 1em;
+margin-right: 0em;
+margin-top: 2em;
+margin-bottom: 2em;
+margin-left: 3px;
+border-top: 1px solid;
+}
+
+.gets5 p{
+	margin-left: 3em;
+	margin-top: 1em;
+}
+
+.footer h2{
+	margin-left: 2em;
+	color: white;
+	font-size: 25px;
+}
